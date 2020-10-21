@@ -21,6 +21,8 @@ As a senior data analyst at the company, you've been given access to the complet
 ## Please use below URL in order to view jupyter notebook output as it may not be displayed correctly within github.
 https://nbviewer.jupyter.org/github/Rupalis123/Matplotlib_Challenge/blob/main/Pymaceuticals/pymaceuticals_starter_v1.ipynb
 
+## Please refer MatplotlibChallengeObservations.pdf for detail observations.
+
 
 ## Observations
 
