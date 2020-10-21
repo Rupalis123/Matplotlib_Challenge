@@ -34,6 +34,7 @@ Main purpose of this analysis was to show how 4 selected treatments compare.
 
 * The regression analysis demonstrates, how much the average tumor volume will change when weight of mice changes. The R-squared value is 0.70, which means 70% the model fit the data so it is a good fit for prediction.
 
+* One potential outlier has been observed within the Infubinol regimen. Most mice showed tumor volume increase, however one mouse has shown a reduction in tumor growth.
 
 ## Instructions
 
